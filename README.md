@@ -48,6 +48,10 @@ reader-writer-problem/
 
 ## Build and run
 
+![Reader-writer terminal output](docs/screenshots/terminal-output.svg)
+
+The terminal preview shows the expected build, stress-test, and shared-resource output.
+
 ```bash
 make
 ./build/reader_writer
