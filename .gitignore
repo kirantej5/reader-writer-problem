@@ -1,0 +1,7 @@
+build/
+*.o
+*.out
+.vscode/
+.idea/
+*.swp
+.DS_Store
